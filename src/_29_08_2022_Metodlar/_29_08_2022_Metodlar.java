@@ -8,8 +8,6 @@ public class _29_08_2022_Metodlar {
 
 
 
-
-
 //        soru 7:
 //        addDigits isminde bir method oluşturun.
 //        Parametresi int
